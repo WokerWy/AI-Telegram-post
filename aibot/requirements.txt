@@ -1,0 +1,26 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-dotenv
+
+openai
+httpx
+pydantic-settings
+
+# async / tasks
+celery
+redis
+
+# parsing
+requests
+beautifulsoup4
+
+# telegram
+telethon
+
+# AI
+openai
+
+# utils
+loguru
